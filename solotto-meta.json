@@ -2,12 +2,12 @@
   "name": "Solotto",
   "symbol": "SOLOTTO",
   "description": "The revolutionary Solana lottery token with weekly SOL jackpots. Hold tokens to win big with our transparent and fair system.",
-  "image": "https://raw.githubusercontent.com/solotto-token/metadata/refs/heads/main/solotto.png",
+  "image": "https://raw.githubusercontent.com/solotto-token/metadata/refs/heads/main/solotto-logo.png",
   "external_url": "https://solotto.info",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/solotto-token/metadata/refs/heads/main/solotto.png",
+        "uri": "https://raw.githubusercontent.com/solotto-token/metadata/refs/heads/main/solotto-logo.png",
         "type": "image/png"
       }
     ],
